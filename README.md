@@ -7,4 +7,4 @@ Maker Media GmbH
 # MicroPython-Special
 Software zu den Heftprojekten und Beispielen
 
-![Picture](https://github.com/MakeMagazinDE/MicroPython-Special/blob/master/cover-Micropython.png)
+![Picture](https://github.com/MakeMagazinDE/MicroPython-Special/blob/main/cover-Micropython.png)
